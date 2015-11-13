@@ -18,17 +18,16 @@ The plugin exposes the functionality of TextRank, and can be used in your Twig:
 $keywords = craft()->hdtextrank->keywords('Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.');
 ```
 
-## Usages
-It could be used for SEO purposes, to extract relevant keywords and summary from your content.
-It might be used for any other summarizing, wherever needed.
-
 ## Installation
 1. Unzip
 2. Drop the ```/hdtextrank``` folder inside your /craft/plugins directory
 3. Install in the Craft CP
 
-Using it together with [SproutSeo](http://sprout.barrelstrengthdesign.com/craft-plugins/seo) Plugin
--------------
+## Usages
+It could be used for SEO purposes, to extract relevant keywords and summary from your content.
+It might be used for any other summarizing, wherever needed.
+
+## Using it together with [SproutSeo](http://sprout.barrelstrengthdesign.com/craft-plugins/seo) Plugin
 
 In your template you can easily to this, to extract relevant keywords and decription from your entries:
 ```twig
