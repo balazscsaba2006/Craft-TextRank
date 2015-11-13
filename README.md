@@ -20,7 +20,7 @@ $keywords = craft()->hdtextrank->keywords('Lorem ipsum dolor sit amet, consectet
 
 ## Usages
 It could be used for SEO purposes, to extract relevant keywords and summary from your content.
-It might be used for any other summarization, wherever needed.
+It might be used for any other summarizing, wherever needed.
 
 ## Installation
 1. Unzip
